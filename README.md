@@ -1,3 +1,5 @@
+work with vue-router, vuelidate, vue-resource
+
 # vue-project
 
 > A Vue.js project
